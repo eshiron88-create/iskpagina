@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "vigente": true,
         "imagen": "anyps4-01.jpg",
         "titulo": "PROMOCIÓN PLAYSTATION",
         "descripcion": "Disfruta de nuestras promociones exclusivas para PlayStation. Regístrate y obtén beneficios adicionales en cada visita.",
@@ -13,6 +14,7 @@
     },
     {
         "id": 2,
+        "vigente": true,
         "imagen": "anyswitch-01.jpg",
         "titulo": "PROMOCIÓN NINTENDO SWITCH",
         "descripcion": "Comparte la diversión con tus amigos y aprovecha promociones especiales disponibles únicamente para miembros registrados.",
@@ -25,6 +27,7 @@
     },
     {
         "id": 3,
+        "vigente": true,
         "imagen": "playmond.jpg",
         "titulo": "PLAYMOND",
         "descripcion": "Consulta nuestras promociones vigentes y disfruta beneficios exclusivos para usuarios registrados de ISK Gaming.",
@@ -37,6 +40,7 @@
     },
     {
         "id": 4,
+        "vigente": true,
         "imagen": "promo4x5.jpg",
         "titulo": "PROMOCIÓN 4X5",
         "descripcion": "Renta cuatro horas y recibe una hora adicional completamente gratis. Promoción válida para usuarios registrados.",
